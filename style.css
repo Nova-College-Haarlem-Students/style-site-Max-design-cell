@@ -23,3 +23,21 @@ text-decoration: none;
     display: flex;
     gap: 20px;
 }
+
+body{
+background-color : rgb(12, 194, 218);
+
+}
+
+footer{
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px; 
+    width: 100%;
+}
+
+footer ul {
+color:white;
+
+}
