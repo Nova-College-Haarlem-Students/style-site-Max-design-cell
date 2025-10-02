@@ -1,0 +1,25 @@
+body {
+font-family: vedrdana;
+
+}
+
+
+nav{
+    background-color: #0d00ff;
+
+}
+
+.nav ul li{
+list-style-type: none;
+
+}
+
+.nav ul li a{
+    color : white;
+text-decoration: none;
+}
+
+.nav-list {
+    dislpay: flex;
+    gap: 20px;
+}
